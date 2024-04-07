@@ -1,0 +1,35 @@
+{
+  "name": "main-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "@discordjs/voice": "^0.16.1",
+    "@distube/soundcloud": "^1.3.3",
+    "@distube/spotify": "^1.5.2",
+    "@distube/ytdl-core": "^4.13.3",
+    "ascii-table": "^0.0.9",
+    "discord-api-types": "^0.37.77",
+    "discord-gamecord": "^4.4.2",
+    "discord-giveaways": "^6.0.1",
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.14.1",
+    "distube": "^4.1.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.2.0",
+    "fs": "^0.0.1-security",
+    "libsodium-wrappers": "^0.7.13",
+    "mongoose": "^6.8.3",
+    "ms": "^2.1.3",
+    "opusscript": "^0.1.1",
+    "rss-parser": "^3.13.0",
+    "tweetnacl": "^1.0.3",
+    "ytdl-core": "^4.11.5"
+  }
+}

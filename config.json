@@ -1,0 +1,22 @@
+{
+    
+
+    "embedColor": "0x003399",
+    "GuildId": "1222160685056659533",
+    "CLIENTID": "1222251790867759265",
+    "ApplicationId": "1222251790867759265",
+    "MongoURI": "mongodb+srv://LucHerberts:JJ77JJ77@cluster0.2xugltz.mongodb.net/?retryWrites=true&w=majority",
+    "Token": "MTIyMjI1MTc5MDg2Nzc1OTI2NQ.Gi-WkF.6Wv6aBGzwwACAo0JzuhnkrgYtPQojp5-pNMi4s",
+    "Prefix": "!",
+    "counting": "1222239670566649868",
+   
+
+    
+    "tickets": {
+        "OpenTicketChannel": "1222564266452975757",
+        "everyoneId": "1222160685056659533",
+        "TicketParent": "1223333777410101369",
+        "TicketTranscriptChannel": "1222630306692202616",
+         "ModRole": "1222181513848688712"
+    }
+}
